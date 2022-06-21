@@ -1,0 +1,11 @@
+body{
+  background-color: black;
+  font-family: 'Orbitron', sans-serif;
+}
+
+#clock {
+    font-size: 175px;
+    color: rgb(247, 53, 182);    
+    text-align: center;    
+    margin: 20px 20px 20px 20px;
+  }
